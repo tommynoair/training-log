@@ -109,3 +109,4 @@
 - Reviewed Arbitrum quest progress
 - Sent Dmail (zkSync / Base)
 - Logged daily portfolio update
+- Logged daily Web3 activity
