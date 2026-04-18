@@ -15,16 +15,16 @@
 - Monitored airdrop claim announcements  
 - Tested Layer3 quest completion  
 - Recorded gas usage and bridge costs
-•	Checked Scroll bridge activity
-	•	Executed small Swap on Base
-	•	Reviewed zkSync dApp interactions
-	•	Verified MetaMask Snap status
-	•	Logged DeBank portfolio update
-	•	Sent additional Dmail (zkSync / Scroll)
-	•	Checked Galxe quest eligibility
-	•	Monitored Linea XP changes
-	•	Tested Orbiter refund tracking
-	•	Recorded daily gas average
+Checked Scroll bridge activity
+Executed small Swap on Base
+Reviewed zkSync dApp interactions
+Verified MetaMask Snap status
+Logged DeBank portfolio update
+Sent additional Dmail (zkSync / Scroll)
+Checked Galxe quest eligibility
+Monitored Linea XP changes
+Tested Orbiter refund tracking
+Recorded daily gas average
 - Checked Base bridge liquidity  
 - Executed micro Swap on Scroll  
 - Reviewed Taiko quest status  
