@@ -25,7 +25,7 @@ Checked Galxe quest eligibility
 Monitored Linea XP changes
 Tested Orbiter refund tracking
 Recorded daily gas average
-- Checked Base bridge liquidity  
+Checked Base bridge liquidity  
 - Executed micro Swap on Scroll  
 - Reviewed Taiko quest status  
 - Verified Blast network activity  
