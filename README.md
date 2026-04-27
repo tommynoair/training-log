@@ -31,7 +31,7 @@ Reviewed Taiko quest status
 Verified Blast network activity  
 Logged Rhino.fi interaction  
 Sent Dmail (Base / zkSync)  
-- Monitored Karak TVL changes  
+Monitored Karak TVL changes  
 - Checked Symbiotic reward accrual  
 - Tested Layer3 new quest  
 - Recorded bridge fee variance
