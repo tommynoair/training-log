@@ -37,7 +37,7 @@ Tested Layer3 new quest
 Recorded bridge fee variance
 Checked Linea bridge volume  
 Executed small Swap on zkSync  
-- Reviewed Scroll quest progress  
+Reviewed Scroll quest progress  
 - Verified Base dApp interaction  
 - Logged DeBank balance change  
 - Sent Dmail (Linea / Base)  
