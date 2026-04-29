@@ -35,7 +35,7 @@ Monitored Karak TVL changes
 Checked Symbiotic reward accrual  
 Tested Layer3 new quest  
 Recorded bridge fee variance
-- Checked Linea bridge volume  
+Checked Linea bridge volume  
 - Executed small Swap on zkSync  
 - Reviewed Scroll quest progress  
 - Verified Base dApp interaction  
