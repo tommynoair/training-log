@@ -40,7 +40,7 @@ Executed small Swap on zkSync
 Reviewed Scroll quest progress  
 Verified Base dApp interaction  
 Logged DeBank balance change  
-- Sent Dmail (Linea / Base)  
+Sent Dmail (Linea / Base)  
 - Monitored Galxe XP update  
 - Checked Orbiter route efficiency  
 - Tested new Layer3 campaign  
