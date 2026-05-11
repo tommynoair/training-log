@@ -44,7 +44,7 @@ Sent Dmail (Linea / Base)
 Monitored Galxe XP update  
 Checked Orbiter route efficiency  
 Tested new Layer3 campaign  
-- Recorded daily transaction count
+Recorded daily transaction count
 -  Checked Arbitrum bridge activity
 * Executed micro Swap on Linea
 * Reviewed Base quest updates
