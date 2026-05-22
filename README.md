@@ -51,7 +51,7 @@ Reviewed Base quest updates
 Verified Optimism transaction history
 Logged Zerion asset allocation
 Sent Dmail (Arbitrum / Base)
-* Monitored Layer3 XP changes
+Monitored Layer3 XP changes
 * Checked Orbiter bridge latency
 * Tested new Galxe campaign
 * Recorded daily bridge count
