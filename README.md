@@ -54,7 +54,7 @@ Sent Dmail (Arbitrum / Base)
 Monitored Layer3 XP changes
 Checked Orbiter bridge latency
 Tested new Galxe campaign
-* Recorded daily bridge count
+Recorded daily bridge count
 - Checked zkSync bridge volume
 - Executed micro Swap on Base
 - Reviewed Linea XP status
