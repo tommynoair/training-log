@@ -55,7 +55,7 @@ Monitored Layer3 XP changes
 Checked Orbiter bridge latency
 Tested new Galxe campaign
 Recorded daily bridge count
-- Checked zkSync bridge volume
+Checked zkSync bridge volume
 - Executed micro Swap on Base
 - Reviewed Linea XP status
 - Verified Optimism transaction log
