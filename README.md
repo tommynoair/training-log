@@ -63,7 +63,7 @@ Logged DeBank portfolio snapshot
 Sent Dmail (Base / Arbitrum)
 Monitored Layer3 campaign progress
 Recorded daily transaction count
-- Checked Linea liquidity status
+Checked Linea liquidity status
 - Executed micro Swap on Arbitrum
 - Reviewed Base quest progress
 - Verified zkSync activity log
