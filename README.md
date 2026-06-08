@@ -67,7 +67,7 @@ Checked Linea liquidity status
 Executed micro Swap on Arbitrum
 Reviewed Base quest progress
 Verified zkSync activity log
-- Logged Zerion portfolio change
+Logged Zerion portfolio change
 - Sent Dmail (Linea / Base)
 - Monitored Galxe XP movement
 - Tested Layer3 daily quest
