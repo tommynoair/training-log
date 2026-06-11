@@ -70,7 +70,7 @@ Verified zkSync activity log
 Logged Zerion portfolio change
 Sent Dmail (Linea / Base)
 Monitored Galxe XP movement
-- Tested Layer3 daily quest
+Tested Layer3 daily quest
 - Checked Orbiter fee update
 - Recorded daily gas average
 Logged daily Web3 activity
