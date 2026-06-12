@@ -71,7 +71,7 @@ Logged Zerion portfolio change
 Sent Dmail (Linea / Base)
 Monitored Galxe XP movement
 Tested Layer3 daily quest
-- Checked Orbiter fee update
+Checked Orbiter fee update
 - Recorded daily gas average
 Logged daily Web3 activity
 - Checked Optimism bridge status
