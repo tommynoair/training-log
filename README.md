@@ -76,7 +76,7 @@ Recorded daily gas average
 Logged daily Web3 activity
 Checked Optimism bridge status
 Executed micro Swap on Linea
-- Reviewed Arbitrum quest updates
+Reviewed Arbitrum quest updates
 - Verified Base transaction history
 - Logged DeBank portfolio change
 - Sent Dmail (Optimism / Linea)
