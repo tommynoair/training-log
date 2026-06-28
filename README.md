@@ -87,7 +87,7 @@ Recorded daily gas trend
 Logged daily Web3 activity
 Logged daily Web3 activity
 Logged daily Web3 activity
-- Checked daily bridge activity
+Checked daily bridge activity
 - Executed micro Swap on Base
 - Reviewed Linea XP update
 - Sent Dmail (Base / Linea)
