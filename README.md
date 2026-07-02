@@ -90,7 +90,7 @@ Logged daily Web3 activity
 Checked daily bridge activity
 Executed micro Swap on Base
 Reviewed Linea XP update
-- Sent Dmail (Base / Linea)
+Sent Dmail (Base / Linea)
 - Logged portfolio snapshot
 - Checked Arbitrum activity
 - Executed micro Swap on Linea
