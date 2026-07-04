@@ -92,7 +92,7 @@ Executed micro Swap on Base
 Reviewed Linea XP update
 Sent Dmail (Base / Linea)
 Logged portfolio snapshot
-- Checked Arbitrum activity
+Checked Arbitrum activity
 - Executed micro Swap on Linea
 - Reviewed Base quest status
 - Sent Dmail (Arbitrum / Base)
