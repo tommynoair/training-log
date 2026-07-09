@@ -97,7 +97,7 @@ Executed micro Swap on Linea
 Reviewed Base quest status
 Sent Dmail (Arbitrum / Base)
 Logged daily gas usage
-- Logged daily Web3 activity
+Logged daily Web3 activity
 - - Checked Base network activity
 - Executed micro Swap on Arbitrum
 - Reviewed Linea quest progress
