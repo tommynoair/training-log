@@ -101,7 +101,7 @@ Logged daily Web3 activity
 Checked Base network activity
 Executed micro Swap on Arbitrum
 Reviewed Linea quest progress
-- Sent Dmail (Base / Arbitrum)
+Sent Dmail (Base / Arbitrum)
 - Logged daily portfolio snapshot
 - Logged daily Web3 activity
 - Checked zkSync network activity
