@@ -120,7 +120,7 @@ Logged daily Web3 activity
 Checked Base network status
 Executed micro Swap on Linea
 Reviewed Arbitrum quest progress
-- Sent Dmail (Base / Linea)
+Sent Dmail (Base / Linea)
 - Logged daily activity update
 - Checked Optimism network activity
 - Executed micro Swap on Base
