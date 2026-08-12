@@ -125,7 +125,7 @@ Logged daily activity update
 Checked Optimism network activity
 Executed micro Swap on Base
 Reviewed Linea quest progress
-- Sent Dmail (Optimism / Base)
+Sent Dmail (Optimism / Base)
 - Logged daily activity snapshot
 - Checked Arbitrum network activity
 - Executed micro Swap on Base
