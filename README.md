@@ -126,7 +126,7 @@ Checked Optimism network activity
 Executed micro Swap on Base
 Reviewed Linea quest progress
 Sent Dmail (Optimism / Base)
-- Logged daily activity snapshot
+Logged daily activity snapshot
 - Checked Arbitrum network activity
 - Executed micro Swap on Base
 - Reviewed zkSync quest progress
