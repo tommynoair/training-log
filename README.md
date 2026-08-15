@@ -128,7 +128,7 @@ Reviewed Linea quest progress
 Sent Dmail (Optimism / Base)
 Logged daily activity snapshot
 Checked Arbitrum network activity
-- Executed micro Swap on Base
+Executed micro Swap on Base
 - Reviewed zkSync quest progress
 - Sent Dmail (Arbitrum / Base)
 - Achieved Chosen One status on Human Passport
