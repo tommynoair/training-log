@@ -130,7 +130,7 @@ Logged daily activity snapshot
 Checked Arbitrum network activity
 Executed micro Swap on Base
 Reviewed zkSync quest progress
-- Sent Dmail (Arbitrum / Base)
+Sent Dmail (Arbitrum / Base)
 - Achieved Chosen One status on Human Passport
 - Verified Unique Humanity Score (70.4)
 - Logged GitHub 30-day contribution milestone
