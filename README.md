@@ -134,7 +134,7 @@ Sent Dmail (Arbitrum / Base)
 Achieved Chosen One status on Human Passport
 Verified Unique Humanity Score (70.4)
 Logged GitHub 30-day contribution milestone
-- Checked HUMN Season 2 eligibility
+Checked HUMN Season 2 eligibility
 - Recorded identity verification progress
 - Checked Human Passport score status
 - Reviewed HUMN Season 2 campaign
