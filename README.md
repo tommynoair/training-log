@@ -138,7 +138,7 @@ Checked HUMN Season 2 eligibility
 Recorded identity verification progress
 Checked Human Passport score status
 Reviewed HUMN Season 2 campaign
-- Verified GitHub contribution streak
+Verified GitHub contribution streak
 - Logged identity verification update
 - Recorded daily Web3 activity
 - Checked airdrop eligibility status
