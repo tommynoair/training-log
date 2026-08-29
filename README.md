@@ -140,7 +140,7 @@ Checked Human Passport score status
 Reviewed HUMN Season 2 campaign
 Verified GitHub contribution streak
 Logged identity verification update
-- Recorded daily Web3 activity
+Recorded daily Web3 activity
 - Checked airdrop eligibility status
 - Reviewed Layer3 campaign updates
 - Verified GitHub contribution streak
