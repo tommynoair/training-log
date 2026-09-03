@@ -144,7 +144,7 @@ Recorded daily Web3 activity
 Checked airdrop eligibility status
 Reviewed Layer3 campaign updates
 Verified GitHub contribution streak
-- Logged daily portfolio snapshot
+Logged daily portfolio snapshot
 - Recorded Web3 activity summary
 - Checked bridge activity across networks
 - Executed micro Swap on Linea
