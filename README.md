@@ -151,7 +151,7 @@ Executed micro Swap on Linea
 Verified GitHub contribution streak
 Logged daily portfolio update
 Recorded Web3 activity summary
-- - Checked network activity status
+Checked network activity status
 - Executed micro Swap on Base
 - Verified GitHub contribution streak
 - Logged daily activity snapshot
