@@ -179,7 +179,7 @@ Checked zkSync network activity
 Executed micro Swap on Base
 Verified GitHub contribution streak
 Logged daily portfolio snapshot
-- Recorded Web3 activity summary
+Recorded Web3 activity summary
 - Maintained GitHub contribution streak
 - Checked Optimism network status
 - Executed micro Swap on Linea
